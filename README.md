@@ -17,5 +17,5 @@
 </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en" alt="panagiotis-sklidas" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en&layout=compact" alt="panagiotis-sklidas" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en&layout=compact" alt="panagiotis-sklidas" /></p>
 
