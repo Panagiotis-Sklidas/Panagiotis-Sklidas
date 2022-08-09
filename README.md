@@ -16,6 +16,6 @@
 <a href="https://twitter.com/sklidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sklidas" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en" alt="panagiotis-sklidas" /></p><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en" alt="panagiotis-sklidas" /></p>
 <p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en&layout=compact" alt="panagiotis-sklidas" /></p>
 
