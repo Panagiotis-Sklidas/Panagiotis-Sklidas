@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋🏼, I'm Panagiotis</h1>
 <h3 align="left">I am currently studying Computer Science at International Hellenic University and I work as an intern web developer at SoftWeb Adaptive IT Solutions</h3>
 
-- 🔭 I'm currently working on my Bachelor's dissertation project [Advanced Attendance System](https://github.com/Panagiotis-Sklidas/Advanced-Attendance-System) currently private
+- 🔭 I'm currently working on my Bachelor's thesis project [Advanced Attendance System](https://github.com/Panagiotis-Sklidas/Advanced-Attendance-System) currently private
 
-- 🌱 I’m currently learning **Angular, TypeScript**
+- 🌱 I’m currently learning **Angular and TypeScript**
 
 - ⚡ Fun fact **I like MCU, but I'm a DCEU nerd**
 
