@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋🏼, I'm Panagiotis</h1>
-<h3 align="left">I am studying Computer Science at International Hellenic University and I work as an intern web developer at SoftWeb Adaptive IT Solutions</h3>
+<h3 align="left">I am studying Computer Science at International Hellenic University <!--and I work as an intern web developer at SoftWeb Adaptive IT Solutions--></h3>
 
 - 🔭 I'm currently working on my Bachelor's thesis project [Advanced Attendance System](https://github.com/Panagiotis-Sklidas/Advanced-Attendance-System)
 
 - 🌱 I’m currently learning **Angular and TypeScript**
 
-- ⚡ Fun fact **I like MCU, but I'm a DCEU nerd**
+- ⚡ Fun fact **I like MCU, but I'm a DCU nerd**
 
 <h3 align="left">Languages and Tools I have used:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
