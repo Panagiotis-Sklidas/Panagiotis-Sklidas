@@ -14,7 +14,7 @@ I am an undergraduate Computer Science student and I have a strong passion for t
 <h3 align="left">Languages and Tools I have used:</h3>
 <p align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://clickup.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/clickup.svg" alt="ClickUp" width="40" height="40"/></a>
+<a href="https://clickup.com/" target="_blank" rel="noreferrer"> <img src="https://logos.prod-v1.vertice.one/cf2806f5-280c-55c0-8306-4ca61ef546f6.svg" alt="ClickUp" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
