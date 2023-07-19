@@ -30,11 +30,11 @@ I am an undergraduate Computer Science student and I have a strong passion for t
 <a href="https://linkedin.com/in/panagiotis-sklidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="panagiotis-sklidas" height="30" width="40" /></a>
 <a href="https://twitter.com/sklidas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sklidas" height="30" width="40" /></a>
 </p>
-
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en" alt="panagiotis-sklidas" /></p>
 <br><br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=panagiotis-sklidas&show_icons=true&theme=merko&locale=en&layout=compact" alt="panagiotis-sklidas" />
 </p>
-
+-->
