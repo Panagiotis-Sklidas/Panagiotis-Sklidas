@@ -1,5 +1,4 @@
-# Hello there 👋🏼, I'm Panagiotis ![Profile Views](https://komarev.com/ghpvc/?username=panagiotis-sklidas&style=for-the-badge)<!--![Profile Views](https://visitcount.itsvg.in/api?id=Panagiotis-Sklidas&icon=5&color=6) -->
-
+# Hello there 👋🏼, I'm Panagiotis
 ## 💫 About Me:
 
 
