@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on **something interesting**
 
-🌱 I’m currently learning **MEAN stack and web servers**
+🌱 I’m currently learning **new technologies and frameworks**
 
 🔍 I'm looking to enter the cybersecurity sector
 
@@ -28,8 +28,8 @@
 <!-- <div align="center"> -->
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotis-sklidas) 
-<!--[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@sklidas)-->
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sklidas)
+<!--[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@sklidas)-->
 
 <!-- </div> -->
 
@@ -38,10 +38,6 @@
 # 💻 Tools I have used:
 <!-- Tools - Languages - Frameworks - Database -->
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<!--![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
-![Basecamp](https://img.shields.io/badge/Basecamp-%23EDD100.svg?style=for-the-badge&logo=basecamp&logoColor=1D2D35)-->
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -60,6 +56,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-001e36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+
+<!--![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Basecamp](https://img.shields.io/badge/Basecamp-%23EDD100.svg?style=for-the-badge&logo=basecamp&logoColor=1D2D35)
+![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)-->
 
 <br>
 
