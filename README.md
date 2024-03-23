@@ -1,4 +1,5 @@
 # Hello there 👋🏼, I'm Panagiotis
+
 ## 💫 About Me:
 
 
@@ -26,41 +27,32 @@
 
 ## 🌐 Socials:
 <!-- <div align="center"> -->
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/panagiotis-sklidas) 
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sklidas)
-<!--[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/@sklidas)-->
-
+<a href='https://linkedin.com/in/panagiotis-sklidas'>
+<img width=64px alt='LinkedIn' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg'></a>
+<!-- <a href='https://t.me/sklidas'>
+<img width=64px alt='Telegram' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/telegram/'></a> -->
 <!-- </div> -->
 
 <br>
 
 # 💻 Tools I have used:
 <!-- Tools - Languages - Frameworks - Database -->
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img width=64px alt='Git' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'>
+<img width=64px alt='C#' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg'>
+<img width=64px alt='Python' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
+<img width=64px alt='Java' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'>
+<img width=64px alt='HTML5' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'>
+<img width=64px alt='SASS' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg'>
+<img width=64px alt='CSS' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'>
+<img width=64px alt='JavaScript' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
+<img width=64px alt='TypeScript' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
+<img width=64px alt='NPM' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg'>
+<img width=64px alt='Angular' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg'>
+<img width=64px alt='SQLite' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg'>
+<img width=64px alt='MySQL' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'>
+<img width=64px alt='Linux' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'>
+<img width=64px alt='Arduino' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg'>
 
-<!-- Other Tools--> 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-001e36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-
-<!--![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
-![Basecamp](https://img.shields.io/badge/Basecamp-%23EDD100.svg?style=for-the-badge&logo=basecamp&logoColor=1D2D35)
-![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)-->
 
 <br>
 
