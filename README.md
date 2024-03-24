@@ -37,22 +37,21 @@
 
 # 💻 Tools I have used:
 <!-- Tools - Languages - Frameworks - Database -->
-<img width=64px alt='Git' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'>
-<img width=64px alt='C#' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg'>
-<img width=64px alt='Python' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'>
-<img width=64px alt='Java' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'>
-<img width=64px alt='HTML5' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'>
-<img width=64px alt='SASS' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg'>
-<img width=64px alt='CSS' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'>
-<img width=64px alt='JavaScript' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'>
-<img width=64px alt='TypeScript' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'>
-<img width=64px alt='NPM' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg'>
-<img width=64px alt='Angular' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg'>
-<img width=64px alt='SQLite' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg'>
-<img width=64px alt='MySQL' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'>
-<img width=64px alt='Linux' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'>
-<img width=64px alt='Arduino' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg'>
-
+<img width=64px align='left' style='padding-right: 2.5px;' alt='Git' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='C#' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='Python' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='Java' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='HTML5' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='SASS' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='CSS' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='JavaScript' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='TypeScript' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='NPM' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='Angular' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='SQLite' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='MySQL' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='Linux' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg'/>
+<img width=64px align='left' style='padding-right: 2.5px;' alt='Arduino' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg'/>
 
 <br>
 
