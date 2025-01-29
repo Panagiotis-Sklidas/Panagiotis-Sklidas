@@ -16,13 +16,16 @@
 
 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/panagiotis-sklidas)
 
+🌐 [Website](https://sklidasdev.gr/home)
+
+
 <!-- 📝 I regularly write articles on  -->
 
 <!-- 💬 Ask me about  -->
 
 ⚡ Fun fact **Apple TV's series are the best in the last few years!**
 
-## 🌐 Socials:
+## 💬 Socials:
 <a href='https://linkedin.com/in/panagiotis-sklidas'>
   <img width=64px alt='LinkedIn' src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg'>
 </a>
